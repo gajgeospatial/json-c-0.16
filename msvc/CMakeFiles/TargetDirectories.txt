@@ -1,0 +1,9 @@
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/PACKAGE.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/json-c.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/distcheck.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/json-c-static.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/doc/CMakeFiles/PACKAGE.dir
+N:/Development/Dev_Base/json-c-0.16/msvc/doc/CMakeFiles/INSTALL.dir
